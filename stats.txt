@@ -1,0 +1,733 @@
+Luka Dončić,64,2143,Los Angeles Lakers
+Shai Gilgeous-Alexander,68,2117,Oklahoma City Thunder
+Jaylen Brown,71,2038,Boston Celtics
+Kevin Durant,78,2026,Houston Rockets
+Tyrese Maxey,70,1980,Philadelphia 76ers
+Donovan Mitchell,70,1952,Cleveland Cavaliers
+Jalen Brunson,74,1927,New York Knicks
+Jamal Murray,75,1905,Denver Nuggets
+Kawhi Leonard,65,1813,Los Angeles Clippers
+Nikola Jokić,65,1799,Denver Nuggets
+Anthony Edwards,61,1757,Minnesota Timberwolves
+Devin Booker,64,1668,Phoenix Suns
+Julius Randle,79,1667,Minnesota Timberwolves
+Brandon Ingram,77,1655,Toronto Raptors
+James Harden,70,1652,Multiple Teams
+James Harden,44,1118,Los Angeles Clippers
+James Harden,26,534,Cleveland Cavaliers
+Desmond Bane,82,1647,Orlando Magic
+Nickeil Alexander-Walker,78,1624,Atlanta Hawks
+Jalen Johnson,72,1621,Atlanta Hawks
+Victor Wembanyama,64,1600,San Antonio Spurs
+Paolo Banchero,72,1599,Orlando Magic
+Deni Avdija,66,1598,Portland Trail Blazers
+Cade Cunningham,64,1531,Detroit Pistons
+Karl-Anthony Towns,75,1504,New York Knicks
+Kon Knueppel,81,1498,Charlotte Hornets
+Pascal Siakam,62,1485,Indiana Pacers
+Cooper Flagg,70,1473,Dallas Mavericks
+Bam Adebayo,73,1468,Miami Heat
+Alperen Şengün,72,1466,Houston Rockets
+Scottie Barnes,80,1448,Toronto Raptors
+LaMelo Ball,72,1445,Charlotte Hornets
+Amen Thompson,79,1443,Houston Rockets
+CJ McCollum,76,1424,Multiple Teams
+CJ McCollum,35,658,Washington Wizards
+CJ McCollum,41,766,Atlanta Hawks
+Trey Murphy III,66,1420,New Orleans Pelicans
+DeMar DeRozan,77,1419,Sacramento Kings
+Jalen Duren,70,1365,Detroit Pistons
+Payton Pritchard,79,1345,Boston Celtics
+De'Aaron Fox,72,1336,San Antonio Spurs
+Miles Bridges,77,1314,Charlotte Hornets
+Brandon Miller,65,1311,Charlotte Hornets
+Zion Williamson,62,1302,New Orleans Pelicans
+Ryan Rollins,74,1281,Milwaukee Bucks
+Keyonte George,54,1275,Utah Jazz
+Saddiq Bey,72,1271,New Orleans Pelicans
+Derrick White,77,1267,Boston Celtics
+Norman Powell,58,1261,Miami Heat
+Michael Porter Jr.,52,1259,Brooklyn Nets
+LeBron James,60,1256,Los Angeles Lakers
+Matas Buzelis,77,1252,Chicago Bulls
+Jabari Smith Jr.,77,1215,Houston Rockets
+VJ Edgecombe,75,1199,Philadelphia 76ers
+Austin Reaves,51,1187,Los Angeles Lakers
+Mikal Bridges,82,1181,New York Knicks
+Chet Holmgren,69,1181,Oklahoma City Thunder
+Evan Mobley,65,1180,Cleveland Cavaliers
+Jeremiah Fears,82,1169,New Orleans Pelicans
+Jaime Jaquez Jr.,75,1152,Miami Heat
+Immanuel Quickley,70,1150,Toronto Raptors
+Stephen Curry,43,1142,Golden State Warriors
+Stephon Castle,68,1133,San Antonio Spurs
+Brandin Podziemski,82,1133,Golden State Warriors
+Dillon Brooks,56,1131,Phoenix Suns
+Naji Marshall,74,1128,Dallas Mavericks
+Lauri Markkanen,42,1123,Utah Jazz
+Onyeka Okongwu,74,1123,Atlanta Hawks
+OG Anunoby,67,1118,New York Knicks
+Brice Sensabaugh,75,1116,Utah Jazz
+Reed Sheppard,82,1110,Houston Rockets
+Toumani Camara,82,1100,Portland Trail Blazers
+RJ Barrett,57,1098,Toronto Raptors
+Jaden McDaniels,73,1084,Minnesota Timberwolves
+Keldon Johnson,82,1081,San Antonio Spurs
+Tim Hardaway Jr.,80,1079,Denver Nuggets
+Jerami Grant,57,1060,Portland Trail Blazers
+Collin Sexton,68,1050,Multiple Teams
+Collin Sexton,42,596,Charlotte Hornets
+Collin Sexton,26,454,Chicago Bulls
+Naz Reid,77,1046,Minnesota Timberwolves
+Andrew Wiggins,68,1045,Miami Heat
+Shaedon Sharpe,50,1042,Portland Trail Blazers
+Ayo Dosunmu,69,1022,Multiple Teams
+Ayo Dosunmu,45,677,Chicago Bulls
+Ayo Dosunmu,24,345,Minnesota Timberwolves
+Joel Embiid,38,1021,Philadelphia 76ers
+Collin Gillespie,80,1012,Phoenix Suns
+Quentin Grimes,75,1006,Philadelphia 76ers
+Donte DiVincenzo,82,1000,Minnesota Timberwolves
+Giannis Antetokounmpo,36,993,Milwaukee Bucks
+Ace Bailey,72,993,Utah Jazz
+Russell Westbrook,64,971,Sacramento Kings
+Andrew Nembhard,57,966,Indiana Pacers
+Nikola Vučević,64,965,Multiple Teams
+Nikola Vučević,48,810,Chicago Bulls
+Nikola Vučević,16,155,Boston Celtics
+Anthony Black,64,959,Orlando Magic
+Bennedict Mathurin,54,949,Multiple Teams
+Bennedict Mathurin,28,497,Indiana Pacers
+Bennedict Mathurin,26,452,Los Angeles Clippers
+Derik Queen,81,948,New Orleans Pelicans
+Max Christie,77,945,Dallas Mavericks
+Duncan Robinson,77,939,Detroit Pistons
+John Collins,69,935,Los Angeles Clippers
+Donovan Clingan,77,934,Portland Trail Blazers
+Devin Vassell,67,932,San Antonio Spurs
+Jaren Jackson Jr.,48,931,Multiple Teams
+Jaren Jackson Jr.,45,864,Memphis Grizzlies
+Jaren Jackson Jr.,3,67,Utah Jazz
+Wendell Carter Jr.,78,922,Orlando Magic
+Maxime Raynaud,74,922,Sacramento Kings
+Josh Giddey,54,919,Chicago Bulls
+Bobby Portis,67,915,Milwaukee Bucks
+Tre Jones,65,914,Chicago Bulls
+Julian Champagnie,82,911,San Antonio Spurs
+Dyson Daniels,76,901,Atlanta Hawks
+Deandre Ayton,72,897,Los Angeles Lakers
+Kyle Kuzma,69,896,Milwaukee Bucks
+Sandro Mamukelashvili,80,893,Toronto Raptors
+Jarace Walker,76,884,Indiana Pacers
+Kyle Filipowski,77,879,Utah Jazz
+Bub Carrington,82,878,Washington Wizards
+Jaylon Tyson,66,872,Cleveland Cavaliers
+Coby White,50,868,Multiple Teams
+Coby White,29,540,Chicago Bulls
+Coby White,21,328,Charlotte Hornets
+Jrue Holiday,53,865,Portland Trail Blazers
+Jaylen Wells,69,865,Memphis Grizzlies
+Jarrett Allen,56,860,Cleveland Cavaliers
+Brandon Williams,66,859,Dallas Mavericks
+Kel'el Ware,77,851,Miami Heat
+Myles Turner,71,846,Milwaukee Bucks
+Darius Garland,45,845,Multiple Teams
+Darius Garland,26,467,Cleveland Cavaliers
+Darius Garland,19,378,Los Angeles Clippers
+Cedric Coward,62,843,Memphis Grizzlies
+Grayson Allen,51,841,Phoenix Suns
+Tobias Harris,63,836,Detroit Pistons
+Rudy Gobert,76,829,Minnesota Timberwolves
+Dylan Harper,69,813,San Antonio Spurs
+Nic Claxton,69,810,Brooklyn Nets
+Klay Thompson,69,810,Dallas Mavericks
+Noah Clowney,66,809,Brooklyn Nets
+A.J. Green,78,809,Milwaukee Bucks
+Pelle Larsson,70,800,Miami Heat
+Cam Spencer,72,798,Memphis Grizzlies
+P.J. Washington,56,793,Dallas Mavericks
+Josh Hart,66,792,New York Knicks
+Peyton Watson,54,789,Denver Nuggets
+Jalen Suggs,57,786,Orlando Magic
+Isaiah Joe,71,785,Oklahoma City Thunder
+Anfernee Simons,55,785,Multiple Teams
+Anfernee Simons,49,694,Boston Celtics
+Anfernee Simons,6,91,Chicago Bulls
+Jay Huff,82,783,Indiana Pacers
+Alex Sarr,48,783,Washington Wizards
+Rui Hachimura,68,780,Los Angeles Lakers
+Neemias Queta,76,776,Boston Celtics
+Ajay Mitchell,57,774,Oklahoma City Thunder
+Malik Monk,62,772,Sacramento Kings
+Harrison Barnes,77,765,San Antonio Spurs
+Royce O'Neale,78,765,Phoenix Suns
+Will Riley,74,764,Washington Wizards
+Tristan Da Silva,77,762,Orlando Magic
+Jimmy Butler,38,760,Golden State Warriors
+Dennis Schröder,70,756,Multiple Teams
+Dennis Schröder,40,510,Sacramento Kings
+Dennis Schröder,30,246,Cleveland Cavaliers
+Zach LaVine,39,748,Sacramento Kings
+Precious Achiuwa,73,736,Sacramento Kings
+Tre Johnson,60,733,Washington Wizards
+Moses Moody,60,728,Golden State Warriors
+Ausar Thompson,73,721,Detroit Pistons
+Sam Hauser,78,719,Boston Celtics
+Jock Landale,68,718,Multiple Teams
+Jock Landale,45,509,Memphis Grizzlies
+Jock Landale,23,209,Atlanta Hawks
+Kyshawn George,48,710,Washington Wizards
+Kelly Oubre Jr.,50,705,Philadelphia 76ers
+Mark Williams,60,700,Phoenix Suns
+Franz Wagner,34,699,Orlando Magic
+Kevin Huerter,69,693,Multiple Teams
+Kevin Huerter,44,479,Chicago Bulls
+Kevin Huerter,25,214,Detroit Pistons
+Isaiah Collier,59,688,Utah Jazz
+GG Jackson II,55,686,Memphis Grizzlies
+Tyler Herro,33,677,Miami Heat
+Ivica Zubac,48,677,Multiple Teams
+Ivica Zubac,43,619,Los Angeles Clippers
+Ivica Zubac,5,58,Indiana Pacers
+Jake LaRavia,82,674,Los Angeles Lakers
+Daniss Jenkins,72,671,Detroit Pistons
+Sam Merrill,52,663,Cleveland Cavaliers
+Kevin Porter Jr.,38,661,Milwaukee Bucks
+Cameron Johnson,54,660,Denver Nuggets
+Cason Wallace,77,660,Oklahoma City Thunder
+Bilal Coulibaly,56,657,Washington Wizards
+Davion Mitchell,70,654,Miami Heat
+Luke Kennard,78,652,Multiple Teams
+Luke Kennard,46,364,Atlanta Hawks
+Luke Kennard,32,288,Los Angeles Lakers
+Bruce Brown,82,649,Denver Nuggets
+Nique Clifford,75,645,Sacramento Kings
+Paul George,37,641,Philadelphia 76ers
+Zaccharie Risacher,67,641,Atlanta Hawks
+Ron Holland,78,640,Detroit Pistons
+Khris Middleton,63,640,Multiple Teams
+Khris Middleton,34,351,Washington Wizards
+Khris Middleton,29,289,Dallas Mavericks
+Brook Lopez,75,634,Los Angeles Clippers
+Tari Eason,60,627,Houston Rockets
+Marvin Bagley III,60,627,Multiple Teams
+Marvin Bagley III,38,385,Washington Wizards
+Marvin Bagley III,22,242,Dallas Mavericks
+Gui Santos,68,625,Golden State Warriors
+Jordan Clarkson,72,622,New York Knicks
+Aaron Nesmith,45,621,Indiana Pacers
+De'Andre Hunter,45,615,Multiple Teams
+De'Andre Hunter,43,600,Cleveland Cavaliers
+De'Andre Hunter,2,15,Sacramento Kings
+Aaron Wiggins,65,611,Oklahoma City Thunder
+Jordan Goodwin,70,609,Phoenix Suns
+Bones Hyland,71,604,Minnesota Timberwolves
+Santi Aldama,43,602,Memphis Grizzlies
+De'Anthony Melton,49,602,Golden State Warriors
+Jordan Miller,60,598,Los Angeles Clippers
+Justin Champagnie,69,597,Washington Wizards
+Simone Fontecchio,70,597,Miami Heat
+Kris Dunn,82,596,Los Angeles Clippers
+Cody Williams,67,588,Utah Jazz
+Isaac Okoro,63,584,Chicago Bulls
+Aaron Gordon,36,582,Denver Nuggets
+Isaiah Stewart,58,581,Detroit Pistons
+Marcus Smart,62,579,Los Angeles Lakers
+Luguentz Dort,69,576,Oklahoma City Thunder
+Moussa Diabaté,73,575,Charlotte Hornets
+Ziaire Williams,56,573,Brooklyn Nets
+Draymond Green,68,570,Golden State Warriors
+Javonte Green,82,569,Detroit Pistons
+Jalen Green,32,568,Phoenix Suns
+Jonas Valančiūnas,65,567,Denver Nuggets
+Cam Thomas,42,567,Multiple Teams
+Cam Thomas,24,375,Brooklyn Nets
+Cam Thomas,18,192,Milwaukee Bucks
+Jalen Williams,33,563,Oklahoma City Thunder
+Jared McCain,67,558,Multiple Teams
+Jared McCain,37,245,Philadelphia 76ers
+Jared McCain,30,313,Oklahoma City Thunder
+Luka Garza,69,557,Boston Celtics
+Vít Krejčí,65,550,Multiple Teams
+Vít Krejčí,46,414,Atlanta Hawks
+Vít Krejčí,19,136,Portland Trail Blazers
+Gary Payton II,73,547,Golden State Warriors
+Dominick Barlow,71,545,Philadelphia 76ers
+Jamal Shead,82,545,Toronto Raptors
+Jalen Smith,53,541,Chicago Bulls
+Ja'Kobe Walter,72,541,Toronto Raptors
+Day'Ron Sharpe,62,540,Brooklyn Nets
+Walter Clayton,69,538,Multiple Teams
+Walter Clayton,45,306,Utah Jazz
+Walter Clayton,24,232,Memphis Grizzlies
+Egor Dëmin,52,536,Brooklyn Nets
+Kristaps Porziņģis,32,533,Multiple Teams
+Kristaps Porziņģis,17,291,Atlanta Hawks
+Kristaps Porziņģis,15,242,Golden State Warriors
+Corey Kispert,58,532,Multiple Teams
+Corey Kispert,19,174,Washington Wizards
+Corey Kispert,39,358,Atlanta Hawks
+Oso Ighodaro,82,531,Phoenix Suns
+Olivier-Maxence Prosper,53,530,Memphis Grizzlies
+Gary Trent Jr.,65,529,Milwaukee Bucks
+Christian Braun,44,526,Denver Nuggets
+T.J. McConnell,56,525,Indiana Pacers
+Daniel Gafford,55,524,Dallas Mavericks
+Jordan Poole,39,524,New Orleans Pelicans
+Jaden Hardy,57,523,Multiple Teams
+Jaden Hardy,34,233,Dallas Mavericks
+Jaden Hardy,23,290,Washington Wizards
+Ryan Kalkbrenner,69,521,Charlotte Hornets
+Quinten Post,67,513,Golden State Warriors
+Jose Alvarado,69,510,Multiple Teams
+Jose Alvarado,41,324,New Orleans Pelicans
+Jose Alvarado,28,186,New York Knicks
+Caleb Love,49,509,Portland Trail Blazers
+Danny Wolf,57,508,Brooklyn Nets
+Patrick Williams,72,505,Chicago Bulls
+Derrick Jones Jr.,50,504,Los Angeles Clippers
+Paul Reed,65,504,Detroit Pistons
+Nolan Traoré,56,499,Brooklyn Nets
+Jaxson Hayes,66,497,Los Angeles Lakers
+Herbert Jones,56,496,New Orleans Pelicans
+Kobe Sanders,68,495,Los Angeles Clippers
+Jakob Poeltl,46,493,Toronto Raptors
+Miles McBride,41,491,New York Knicks
+Collin Murray-Boyles,57,484,Toronto Raptors
+Keon Ellis,72,480,Multiple Teams
+Keon Ellis,43,239,Sacramento Kings
+Keon Ellis,29,241,Cleveland Cavaliers
+Pat Spencer,66,476,Golden State Warriors
+Landry Shamet,51,475,New York Knicks
+Svi Mykhailiuk,50,469,Utah Jazz
+Jaylin Williams,65,469,Oklahoma City Thunder
+Ben Sheppard,65,459,Indiana Pacers
+Micah Potter,47,458,Indiana Pacers
+Gradey Dick,76,455,Toronto Raptors
+Terance Mann,63,455,Brooklyn Nets
+Quenton Jackson,49,448,Indiana Pacers
+Jusuf Nurkić,41,447,Utah Jazz
+Luke Kornet,68,444,San Antonio Spurs
+Caris LeVert,60,443,Detroit Pistons
+Sion James,82,441,Charlotte Hornets
+Will Richard,69,441,Golden State Warriors
+Tristan Vukcevic,49,441,Washington Wizards
+Taylor Hendricks,59,438,Multiple Teams
+Taylor Hendricks,33,163,Utah Jazz
+Taylor Hendricks,26,275,Memphis Grizzlies
+Jonathan Kuminga,36,438,Multiple Teams
+Jonathan Kuminga,20,242,Golden State Warriors
+Jonathan Kuminga,16,196,Atlanta Hawks
+Isaiah Hartenstein,47,432,Oklahoma City Thunder
+Ousmane Dieng,57,431,Multiple Teams
+Ousmane Dieng,27,100,Oklahoma City Thunder
+Ousmane Dieng,30,331,Milwaukee Bucks
+Kentavious Caldwell-Pope,51,428,Memphis Grizzlies
+Scoot Henderson,30,427,Portland Trail Blazers
+Baylor Scheierman,77,427,Boston Celtics
+Julian Strawther,57,413,Denver Nuggets
+Rob Dillingham,65,409,Multiple Teams
+Rob Dillingham,35,121,Minnesota Timberwolves
+Rob Dillingham,30,288,Chicago Bulls
+Drake Powell,63,408,Brooklyn Nets
+Anthony Davis,20,407,Dallas Mavericks
+Ryan Dunn,70,407,Phoenix Suns
+Andre Drummond,63,403,Philadelphia 76ers
+Ryan Nembhard,60,397,Dallas Mavericks
+Robert Williams,59,397,Portland Trail Blazers
+Javon Small,41,396,Memphis Grizzlies
+Dru Smith,70,395,Miami Heat
+Buddy Hield,51,390,Multiple Teams
+Buddy Hield,44,354,Golden State Warriors
+Buddy Hield,7,36,Atlanta Hawks
+Ja Morant,20,389,Memphis Grizzlies
+Justin Edwards,64,386,Philadelphia 76ers
+Sidy Cissoko,75,383,Portland Trail Blazers
+Yves Missi,66,377,New Orleans Pelicans
+Goga Bitadze,64,375,Orlando Magic
+Nae'Qwan Tomlin,64,374,Cleveland Cavaliers
+Guerschon Yabusele,67,373,Multiple Teams
+Guerschon Yabusele,41,112,New York Knicks
+Guerschon Yabusele,26,261,Chicago Bulls
+Al Horford,45,372,Golden State Warriors
+Thomas Bryant,60,370,Cleveland Cavaliers
+Isaiah Jackson,55,370,Multiple Teams
+Isaiah Jackson,38,243,Indiana Pacers
+Isaiah Jackson,17,127,Los Angeles Clippers
+Jamir Watkins,50,368,Washington Wizards
+Jordan Walsh,68,364,Boston Celtics
+Josh Minott,49,364,Multiple Teams
+Josh Minott,33,192,Boston Celtics
+Josh Minott,16,172,Brooklyn Nets
+Kenrich Williams,56,363,Oklahoma City Thunder
+Leonard Miller,46,361,Multiple Teams
+Leonard Miller,19,44,Minnesota Timberwolves
+Leonard Miller,27,317,Chicago Bulls
+Josh Okogie,78,353,Houston Rockets
+Kobe Brown,61,353,Multiple Teams
+Kobe Brown,34,100,Los Angeles Clippers
+Kobe Brown,27,253,Indiana Pacers
+Spencer Jones,64,352,Denver Nuggets
+Karlo Matković,62,352,New Orleans Pelicans
+Alex Caruso,56,348,Oklahoma City Thunder
+Jayson Tatum,16,348,Boston Celtics
+Trendon Watford,53,346,Philadelphia 76ers
+Adem Bona,71,344,Philadelphia 76ers
+Nikola Jović,47,344,Miami Heat
+Daeqwon Plowden,32,344,Sacramento Kings
+Jalen Wilson,54,343,Brooklyn Nets
+Mouhamed Gueye,77,342,Atlanta Hawks
+Dean Wade,59,342,Cleveland Cavaliers
+Bryce McGowens,42,340,New Orleans Pelicans
+Mitchell Robinson,60,340,New York Knicks
+Devin Carter,38,339,Sacramento Kings
+Jevon Carter,53,339,Multiple Teams
+Jevon Carter,23,124,Chicago Bulls
+Jevon Carter,30,215,Orlando Magic
+Jericho Sims,67,334,Milwaukee Bucks
+Sharife Cooper,41,333,Washington Wizards
+Ben Saraf,44,332,Brooklyn Nets
+Rayan Rupert,64,332,Multiple Teams
+Rayan Rupert,48,137,Portland Trail Blazers
+Rayan Rupert,16,195,Memphis Grizzlies
+Kris Murray,57,331,Portland Trail Blazers
+Kasparas Jakučionis,53,328,Miami Heat
+Anthony Gill,55,321,Washington Wizards
+Keegan Murray,23,321,Sacramento Kings
+Jaden Ivey,37,316,Multiple Teams
+Jaden Ivey,33,270,Detroit Pistons
+Jaden Ivey,4,46,Chicago Bulls
+Ochai Agbaji,62,314,Multiple Teams
+Ochai Agbaji,42,181,Toronto Raptors
+Ochai Agbaji,20,133,Brooklyn Nets
+Aaron Holiday,57,312,Houston Rockets
+Jett Howard,55,301,Orlando Magic
+Domantas Sabonis,19,301,Sacramento Kings
+Vince Williams Jr.,40,300,Multiple Teams
+Vince Williams Jr.,34,272,Memphis Grizzlies
+Vince Williams Jr.,6,28,Utah Jazz
+Carter Bryant,71,298,San Antonio Spurs
+Ty Jerome,15,295,Memphis Grizzlies
+Nicolas Batum,74,293,Los Angeles Clippers
+Tre Mann,53,291,Charlotte Hornets
+Tyrese Martin,46,290,Multiple Teams
+Tyrese Martin,37,270,Brooklyn Nets
+Tyrese Martin,9,20,Philadelphia 76ers
+Hugo González,74,289,Boston Celtics
+Craig Porter Jr.,64,289,Cleveland Cavaliers
+Jarred Vanderbilt,65,288,Los Angeles Lakers
+Clint Capela,75,282,Houston Rockets
+Obi Toppin,24,279,Indiana Pacers
+Jabari Walker,64,276,Philadelphia 76ers
+Nick Richards,48,276,Multiple Teams
+Nick Richards,28,89,Phoenix Suns
+Nick Richards,20,187,Chicago Bulls
+Jaylen Clark,68,275,Minnesota Timberwolves
+Tyler Kolek,62,274,New York Knicks
+Tyrese Proctor,50,272,Cleveland Cavaliers
+Trae Young,15,269,Multiple Teams
+Trae Young,10,193,Atlanta Hawks
+Trae Young,5,76,Washington Wizards
+Kyle Anderson,43,266,Multiple Teams
+Kyle Anderson,20,142,Utah Jazz
+Kyle Anderson,4,37,Memphis Grizzlies
+Kyle Anderson,19,87,Minnesota Timberwolves
+D'Angelo Russell,26,264,Dallas Mavericks
+Jamaree Bouyea,46,263,Phoenix Suns
+Micah Peavy,61,262,New Orleans Pelicans
+Jalen Pickett,50,260,Denver Nuggets
+Jordan Hawkins,51,258,New Orleans Pelicans
+Pete Nance,47,254,Milwaukee Bucks
+Grant Williams,36,252,Charlotte Hornets
+Josh Green,58,249,Charlotte Hornets
+Kevin Love,37,248,Utah Jazz
+John Konchar,56,248,Multiple Teams
+John Konchar,30,95,Memphis Grizzlies
+John Konchar,26,153,Utah Jazz
+Moritz Wagner,36,247,Orlando Magic
+Mohamed Diawara,69,246,New York Knicks
+Mike Conley,54,245,Minnesota Timberwolves
+Branden Carlson,42,242,Oklahoma City Thunder
+Terrence Shannon Jr.,43,241,Minnesota Timberwolves
+Taurean Prince,26,239,Milwaukee Bucks
+Jase Richardson,54,239,Orlando Magic
+Dylan Cardwell,44,238,Sacramento Kings
+Rasheer Fleming,55,238,Phoenix Suns
+Cole Anthony,35,234,Milwaukee Bucks
+Dejounte Murray,14,234,New Orleans Pelicans
+Gabe Vincent,53,231,Multiple Teams
+Gabe Vincent,29,138,Los Angeles Lakers
+Gabe Vincent,24,93,Atlanta Hawks
+Dalton Knecht,54,228,Los Angeles Lakers
+Caleb Martin,58,227,Dallas Mavericks
+Asa Newell,44,227,Atlanta Hawks
+Noah Penda,59,227,Orlando Magic
+Ethan Thompson,32,223,Indiana Pacers
+Tidjane Salaün,37,222,Charlotte Hornets
+Drew Eubanks,42,219,Sacramento Kings
+Jamal Cain,40,215,Orlando Magic
+Oscar Tshiebwe,27,211,Utah Jazz
+Dwight Powell,63,210,Dallas Mavericks
+Tyus Jones,67,199,Multiple Teams
+Tyus Jones,48,144,Orlando Magic
+Tyus Jones,8,31,Dallas Mavericks
+Tyus Jones,11,24,Denver Nuggets
+Marcus Sasser,38,197,Detroit Pistons
+Cam Whitmore,21,193,Washington Wizards
+Jamison Battle,61,192,Toronto Raptors
+Jahmai Mashack,31,192,Memphis Grizzlies
+Zeke Nnaji,52,190,Denver Nuggets
+Tyson Etienne,24,189,Brooklyn Nets
+Steven Adams,32,187,Houston Rockets
+Keaton Wallace,53,186,Atlanta Hawks
+Nick Smith Jr.,30,185,Los Angeles Lakers
+Trayce Jackson-Davis,53,181,Multiple Teams
+Trayce Jackson-Davis,36,150,Golden State Warriors
+Trayce Jackson-Davis,17,31,Toronto Raptors
+Johnny Furphy,35,180,Indiana Pacers
+Elijah Harkless,26,178,Utah Jazz
+Yanic Konan Niederhäuser,41,176,Los Angeles Clippers
+Dalen Terry,48,176,Multiple Teams
+Dalen Terry,34,118,Chicago Bulls
+Dalen Terry,14,58,Philadelphia 76ers
+Matisse Thybulle,30,174,Portland Trail Blazers
+Bogdan Bogdanović,23,171,Los Angeles Clippers
+Taelon Peter,38,171,Indiana Pacers
+Moussa Cisse,38,170,Dallas Mavericks
+Blake Hinson,14,167,Utah Jazz
+Kennedy Chandler,11,165,Utah Jazz
+Doug McDermott,29,164,Sacramento Kings
+Myron Gardner,45,163,Miami Heat
+Cameron Payne,22,163,Philadelphia 76ers
+Kam Jones,37,162,Indiana Pacers
+Tony Bradley,41,162,Multiple Teams
+Tony Bradley,38,151,Indiana Pacers
+Tony Bradley,3,11,Atlanta Hawks
+Lonzo Ball,35,160,Cleveland Cavaliers
+AJ Johnson,48,160,Multiple Teams
+AJ Johnson,25,70,Washington Wizards
+AJ Johnson,23,90,Dallas Mavericks
+Jeremy Sochan,44,158,Multiple Teams
+Jeremy Sochan,28,114,San Antonio Spurs
+Jeremy Sochan,16,44,New York Knicks
+Cormac Ryan,11,157,Milwaukee Bucks
+Joan Beringer,40,156,Minnesota Timberwolves
+Cam Christie,55,156,Los Angeles Clippers
+Julian Reese,13,154,Washington Wizards
+Zach Edey,11,150,Memphis Grizzlies
+Amir Coffey,46,149,Multiple Teams
+Amir Coffey,30,72,Milwaukee Bucks
+Amir Coffey,16,77,Phoenix Suns
+LJ Cryer,18,148,Golden State Warriors
+Blake Wesley,31,148,Portland Trail Blazers
+E.J. Liddell,26,147,Brooklyn Nets
+Julian Phillips,48,140,Multiple Teams
+Julian Phillips,35,99,Chicago Bulls
+Julian Phillips,13,41,Minnesota Timberwolves
+Chaney Johnson,17,139,Brooklyn Nets
+Khaman Maluach,46,139,Phoenix Suns
+Keshad Johnson,32,136,Miami Heat
+Jonathan Isaac,52,134,Orlando Magic
+Max Strus,12,134,Cleveland Cavaliers
+Kelly Olynyk,42,133,San Antonio Spurs
+Liam McNeeley,31,132,Charlotte Hornets
+Larry Nance Jr.,35,131,Cleveland Cavaliers
+Tyler Burton,12,129,Memphis Grizzlies
+Jae'Sean Tate,46,129,Houston Rockets
+Malaki Branham,28,128,Washington Wizards
+Gary Harris,48,128,Milwaukee Bucks
+Killian Hayes,23,127,Sacramento Kings
+Malachi Smith,15,124,Brooklyn Nets
+Dorian Finney-Smith,37,123,Houston Rockets
+Ron Harper Jr.,29,123,Boston Celtics
+Bronny James,42,122,Los Angeles Lakers
+Bez Mbeng,15,122,Utah Jazz
+Ariel Hukporti,54,117,New York Knicks
+John Poulakidas,13,115,Dallas Mavericks
+Scotty Pippen Jr.,10,114,Memphis Grizzlies
+Andre Jackson Jr.,48,113,Milwaukee Bucks
+Nate Williams,14,112,Golden State Warriors
+Pat Connaughton,42,110,Charlotte Hornets
+Leaky Black,15,106,Washington Wizards
+A.J. Lawson,24,101,Toronto Raptors
+Jeremiah Robinson-Earl,22,101,Multiple Teams
+Jeremiah Robinson-Earl,17,79,Indiana Pacers
+Jeremiah Robinson-Earl,5,22,Dallas Mavericks
+Dariq Whitehead,6,98,Memphis Grizzlies
+Zach Collins,10,97,Chicago Bulls
+MarJon Beauchamp,14,95,Philadelphia 76ers
+Yang Hansen,43,95,Portland Trail Blazers
+Jalen Slawson,13,95,Indiana Pacers
+Lindy Waters III,40,95,San Antonio Spurs
+Duop Reath,32,94,Portland Trail Blazers
+DaRon Holmes,25,93,Denver Nuggets
+Drew Timme,27,92,Los Angeles Lakers
+KJ Simpson,20,91,Multiple Teams
+KJ Simpson,14,84,Charlotte Hornets
+KJ Simpson,6,7,Denver Nuggets
+Jordan McLaughlin,44,89,San Antonio Spurs
+Lachlan Olbrich,37,89,Chicago Bulls
+DeJon Jarreau,11,88,Memphis Grizzlies
+Maxi Kleber,43,86,Los Angeles Lakers
+PJ Hall,19,86,Multiple Teams
+PJ Hall,7,13,Memphis Grizzlies
+PJ Hall,12,73,Charlotte Hornets
+Adama-Alpha Bal,8,83,Memphis Grizzlies
+Malevy Leons,25,83,Golden State Warriors
+Chaz Lanier,34,80,Detroit Pistons
+Garrison Mathews,15,78,Indiana Pacers
+Charles Bassey,13,76,Multiple Teams
+Charles Bassey,2,7,Memphis Grizzlies
+Charles Bassey,1,2,Philadelphia 76ers
+Charles Bassey,5,14,Boston Celtics
+Charles Bassey,5,53,Golden State Warriors
+RayJ Dennis,17,74,Multiple Teams
+RayJ Dennis,13,64,Indiana Pacers
+RayJ Dennis,1,0,Los Angeles Clippers
+RayJ Dennis,3,10,Atlanta Hawks
+Lucas Williamson,7,73,Memphis Grizzlies
+Christian Koloko,27,73,Multiple Teams
+Christian Koloko,2,0,Los Angeles Lakers
+Christian Koloko,11,29,Memphis Grizzlies
+Christian Koloko,14,44,Atlanta Hawks
+Walker Kessler,5,72,Utah Jazz
+Seth Curry,10,71,Golden State Warriors
+Chris Youngblood,34,71,Multiple Teams
+Chris Youngblood,32,65,Oklahoma City Thunder
+Chris Youngblood,2,6,Portland Trail Blazers
+JD Davison,28,69,Houston Rockets
+Brooks Barnhizer,40,68,Oklahoma City Thunder
+Jeff Green,30,67,Houston Rockets
+Mac McClung,11,67,Multiple Teams
+Mac McClung,3,19,Indiana Pacers
+Mac McClung,8,48,Chicago Bulls
+Isaiah Livers,36,65,Phoenix Suns
+Yuki Kawamura,18,62,Chicago Bulls
+Jonathan Mogbo,40,61,Toronto Raptors
+Toby Okani,6,60,Memphis Grizzlies
+Kevon Looney,21,59,New Orleans Pelicans
+Tolu Smith,15,56,Detroit Pistons
+Tyler Smith,12,56,Dallas Mavericks
+DeAndre Jordan,12,53,New Orleans Pelicans
+Nikola Topić,10,52,Oklahoma City Thunder
+Alijah Martin,23,51,Toronto Raptors
+Kevin McCullar Jr.,21,50,New York Knicks
+Bradley Beal,6,49,Los Angeles Clippers
+Pacôme Dadiet,29,48,New York Knicks
+Tre Scott,6,48,Brooklyn Nets
+Trey Alexander,9,47,New Orleans Pelicans
+Thanasis Antetokounmpo,34,47,Milwaukee Bucks
+Chris Paul,16,47,Los Angeles Clippers
+Adou Thiero,25,47,Los Angeles Lakers
+Kobe Bufkin,16,46,Los Angeles Lakers
+Hunter Tyson,21,46,Denver Nuggets
+Koby Brea,12,45,Phoenix Suns
+Alondes Williams,4,44,Washington Wizards
+Xavier Tillman Sr.,30,44,Multiple Teams
+Xavier Tillman Sr.,14,31,Boston Celtics
+Xavier Tillman Sr.,16,13,Charlotte Hornets
+Johnny Juzang,21,43,Minnesota Timberwolves
+Miles Kelly,14,43,Dallas Mavericks
+Caleb Houstan,18,42,Atlanta Hawks
+Joe Ingles,27,41,Minnesota Timberwolves
+David Roddy,5,40,Denver Nuggets
+Haywood Highsmith,7,38,Phoenix Suns
+Tristan Enaruna,9,37,Cleveland Cavaliers
+Payton Sandfort,4,35,Oklahoma City Thunder
+Riley Minix,9,35,Multiple Teams
+Riley Minix,3,9,San Antonio Spurs
+Riley Minix,6,26,Cleveland Cavaliers
+Taj Gibson,10,34,Memphis Grizzlies
+Nigel Hayes-Davis,27,34,Phoenix Suns
+Omer Yurtseven,9,34,Golden State Warriors
+Eric Gordon,6,33,Philadelphia 76ers
+Patrick Baldwin Jr.,9,33,Multiple Teams
+Patrick Baldwin Jr.,2,10,Los Angeles Clippers
+Patrick Baldwin Jr.,1,0,Philadelphia 76ers
+Patrick Baldwin Jr.,6,23,Sacramento Kings
+David Jones García,11,32,San Antonio Spurs
+DaQuan Jeffries,3,31,Sacramento Kings
+Mason Plumlee,20,31,Multiple Teams
+Mason Plumlee,14,26,Charlotte Hornets
+Mason Plumlee,6,5,San Antonio Spurs
+Dereck Lively II,7,30,Dallas Mavericks
+Amari Williams,22,30,Boston Celtics
+Curtis Jones,10,29,Denver Nuggets
+Isaiah Crawford,14,28,Houston Rockets
+Luke Travers,12,28,Cleveland Cavaliers
+Antonio Reeves,10,27,Charlotte Hornets
+Andersson Garcia,5,26,Utah Jazz
+Josh Oduro,3,25,New Orleans Pelicans
+Kadary Richmond,3,25,Washington Wizards
+Jahmir Young,14,25,Miami Heat
+Bismack Biyombo,25,23,San Antonio Spurs
+Javonte Cooke,19,23,Portland Trail Blazers
+Zyon Pullin,5,23,Minnesota Timberwolves
+Bobi Klintman,12,22,Detroit Pistons
+Mark Sears,7,22,Milwaukee Bucks
+Chris Boucher,9,21,Boston Celtics
+TyTy Washington Jr.,16,21,Los Angeles Clippers
+Alex Antetokounmpo,6,19,Milwaukee Bucks
+Monte Morris,6,18,Indiana Pacers
+Kyle Lowry,14,17,Philadelphia 76ers
+Grant Nelson,4,17,Brooklyn Nets
+Norchad Omier,6,17,Los Angeles Clippers
+Garrett Temple,22,17,Toronto Raptors
+Keshon Gilbert,4,17,Multiple Teams
+Keshon Gilbert,3,6,Washington Wizards
+Keshon Gilbert,1,11,Atlanta Hawks
+Mouhamadou Gueye,2,16,Chicago Bulls
+Emanuel Miller,5,15,Chicago Bulls
+John Tonje,6,15,Boston Celtics
+Lawson Lovering,2,14,Memphis Grizzlies
+Olivier Sarr,4,14,Cleveland Cavaliers
+Rocco Zikarsky,5,14,Minnesota Timberwolves
+Enrique Freeman,4,13,Minnesota Timberwolves
+Trey Jemison,13,13,New York Knicks
+Skal Labissière,3,13,Washington Wizards
+Sean Pedulla,7,13,Los Angeles Clippers
+James Wiseman,4,13,Indiana Pacers
+Hunter Dickinson,5,12,New Orleans Pelicans
+CJ Huntley,4,12,Phoenix Suns
+Tristen Newton,1,12,Houston Rockets
+Dalano Banton,6,12,Multiple Teams
+Dalano Banton,2,6,Los Angeles Clippers
+Dalano Banton,4,6,Boston Celtics
+Harrison Ingram,7,11,San Antonio Spurs
+Mo Bamba,4,10,Multiple Teams
+Mo Bamba,2,0,Toronto Raptors
+Mo Bamba,2,10,Utah Jazz
+Johni Broome,11,10,Philadelphia 76ers
+Jayson Kent,5,10,Portland Trail Blazers
+Wendell Moore Jr.,6,10,Detroit Pistons
+Isaiah Stevens,3,10,Sacramento Kings
+Dillon Jones,7,9,New York Knicks
+Chris Livingston,3,9,Cleveland Cavaliers
+Isaac Jones,7,9,Multiple Teams
+Isaac Jones,3,3,Sacramento Kings
+Isaac Jones,4,6,Detroit Pistons
+Brandon Clarke,2,8,Memphis Grizzlies
+Trevor Keels,8,8,Miami Heat
+Alex Morales,4,8,Orlando Magic
+Jacob Toppin,5,8,Atlanta Hawks
+Vladislav Goldin,9,7,Miami Heat
+Chris Mañon,9,7,Los Angeles Lakers
+Cody Martin,4,7,Indiana Pacers
+Orlando Robinson,4,7,Orlando Magic
+Hunter Sallis,7,7,Philadelphia 76ers
+Max Shulga,11,7,Boston Celtics
+Buddy Boeheim,4,6,Oklahoma City Thunder
+Hayden Gray,1,6,Utah Jazz
+Colin Castleton,4,5,Orlando Magic
+Drew Peterson,6,5,Charlotte Hornets
+Dario Šarić,5,5,Sacramento Kings
+Trentyn Flowers,2,4,Chicago Bulls
+Markelle Fultz,5,4,Toronto Raptors
+N'Faly Dante,4,3,Atlanta Hawks
+Colby Jones,1,2,Detroit Pistons
+Stanley Umude,2,2,San Antonio Spurs
+Jahmyl Telfort,8,1,Los Angeles Clippers
+Darius Brown II,1,0,Cleveland Cavaliers
+Noa Essengue,2,0,Chicago Bulls
+Tosan Evbuomwan,5,0,New York Knicks
+Chucky Hepburn,2,0,Toronto Raptors

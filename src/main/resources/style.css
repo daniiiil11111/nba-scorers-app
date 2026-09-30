@@ -1,0 +1,172 @@
+* {
+    -fx-font-family: "SF Pro Text", "Segoe UI", "Helvetica Neue", sans-serif;
+}
+
+.root {
+    -fx-background-color: #faf9f7;
+}
+
+.eyebrow {
+    -fx-font-size: 11px;
+    -fx-font-weight: 700;
+    -fx-text-fill: #a1a1aa;
+}
+
+.page-title {
+    -fx-font-size: 28px;
+    -fx-font-weight: 700;
+    -fx-text-fill: #111111;
+}
+
+.text-muted {
+    -fx-font-size: 13px;
+    -fx-text-fill: #8a8a8e;
+}
+
+.card {
+    -fx-background-color: white;
+    -fx-background-radius: 20px;
+    -fx-border-color: #ececec;
+    -fx-border-width: 1px;
+    -fx-border-radius: 20px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.04), 24, 0, 0, 6);
+}
+
+.tab-bar {
+    -fx-border-color: transparent transparent #ececec transparent;
+    -fx-border-width: 0 0 1 0;
+    -fx-padding: 0 0 14px 0;
+}
+
+.tab-bar .toggle-button {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0;
+    -fx-background-radius: 0;
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color: transparent;
+    -fx-text-fill: #a1a1aa;
+    -fx-font-size: 13px;
+    -fx-font-weight: 500;
+    -fx-padding: 0 0 10px 0;
+    -fx-cursor: hand;
+}
+
+.tab-bar .toggle-button:hover {
+    -fx-text-fill: #52525b;
+}
+
+.tab-bar .toggle-button:selected {
+    -fx-text-fill: #111111;
+    -fx-font-weight: 600;
+    -fx-border-color: transparent transparent #111111 transparent;
+    -fx-border-width: 0 0 2 0;
+}
+
+.text-field {
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px;
+    -fx-border-color: #e4e4e7;
+    -fx-padding: 9px 12px;
+    -fx-background-color: #fcfcfc;
+    -fx-font-size: 13px;
+}
+
+.text-field:focused {
+    -fx-border-color: #111111;
+}
+
+.primary-button {
+    -fx-background-color: #111111;
+    -fx-text-fill: white;
+    -fx-background-radius: 8px;
+    -fx-padding: 10px 22px;
+    -fx-font-size: 13px;
+    -fx-font-weight: 600;
+    -fx-cursor: hand;
+}
+
+.primary-button:hover {
+    -fx-background-color: #2a2a2a;
+}
+
+.primary-button:pressed {
+    -fx-background-color: #000000;
+}
+
+.list-view {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.list-cell {
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: #fafafa;
+}
+
+.player-row {
+    -fx-padding: 14px 4px;
+    -fx-border-color: transparent transparent #f2f2f2 transparent;
+    -fx-border-width: 0 0 1 0;
+}
+
+.avatar {
+    -fx-background-color: #f4f4f4;
+    -fx-background-radius: 999px;
+    -fx-min-width: 36px;
+    -fx-min-height: 36px;
+    -fx-max-width: 36px;
+    -fx-max-height: 36px;
+}
+
+.avatar-text {
+    -fx-text-fill: #111111;
+    -fx-font-weight: 700;
+    -fx-font-size: 12px;
+}
+
+.player-name {
+    -fx-font-size: 14px;
+    -fx-font-weight: 600;
+    -fx-text-fill: #111111;
+}
+
+.player-meta {
+    -fx-font-size: 12px;
+    -fx-text-fill: #a1a1aa;
+}
+
+.points-value {
+    -fx-font-size: 16px;
+    -fx-font-weight: 700;
+    -fx-text-fill: #111111;
+}
+
+.points-caption {
+    -fx-font-size: 10px;
+    -fx-font-weight: 600;
+    -fx-text-fill: #c4c4c8;
+}
+.star-button {
+    -fx-background-color: transparent;
+    -fx-font-size: 16px;
+    -fx-cursor: hand;
+    -fx-padding: 0 6px;
+    -fx-text-fill: #c4c4c8;
+}
+
+.profile-link {
+    -fx-text-fill: #8a8a8e;
+    -fx-font-size: 11px;
+    -fx-padding: 0;
+}
+
+.combo-box {
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px;
+    -fx-border-color: #e4e4e7;
+    -fx-background-color: #fcfcfc;
+}
